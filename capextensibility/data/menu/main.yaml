@@ -1,0 +1,45 @@
+main:
+  - name: Overview
+    ref: "/Overview"
+    sub:
+      - name: Cloud Application Programming
+        ref: "/Cloud Application Programming"
+        sub:
+          - name: Benefits
+            ref: "/Benefits"
+          - name: Key Concepts
+            ref: "/Key Concepts"
+  
+  - name: Extensibility
+    ref: "/Extensibility"
+    sub:
+      - name: Extension Process Overview
+        ref: "Extensibility/Extending/Extension_Process_Overview"
+      - name: Subscribing
+        ref: "Extensibility/Subscribing"
+      - name: Service Broker
+        ref: "Extensibility/Service Broker"
+      - name: Service Key
+        ref: "Extensibility/Service Key"
+      - name: "Access Token"
+        ref: "Extensibility/Access Token"
+      - name: "Users"
+        ref: "Extensibility/Users"
+        sub:
+          - name: Setup
+            ref: "Extensibility/Users/Setup Users"
+          - name: Assign Users
+            ref: "Extensibility/Users/Assign Users"
+      - name: Extending
+        ref: "Extensibility/Extending/Extensibility"
+        sub:
+          - name: Project Setup
+            ref: "Extensibility/Project Setup"
+          - name: Folder Structure
+            ref: "Extensibility/Folder Structure"
+          - name: Create Extension
+            ref: "Extensibility/Create Extension"
+          - name: Verification
+            ref: "Extensibility/Verification"
+          - name: Limitations
+            ref: "Extensibility/Limitations"
