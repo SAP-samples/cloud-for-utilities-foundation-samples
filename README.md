@@ -2,7 +2,7 @@
 
 ## Description
 
-First comitt of the repository provides a how-to guide about SAP Cloud for Utilities Foundation extensibility. You are guided throuh a typical step-by-step in order to extend the structure of a BTP based application.
+First commit of the repository provides a how-to guide about SAP Cloud for Utilities Foundation extensibility. You are guided throuh a typical step-by-step in order to extend the structure of an SAP BTP application.
 
 ## Requirements
 
