@@ -9,16 +9,15 @@ We provide How-To guides together with code snippets for several Cloud for Utili
 
 ## Download and Installation
 
-Create an SAP BTP Trial account in the region EU10
-Deploy SAP HANA Cloud
-Enable SAP BTP Cloud Foundry
-Install the Cloud Foundry CLI
+###Create an SAP BTP Trial account in the region EU10
+###Deploy SAP HANA Cloud
+###Enable SAP BTP Cloud Foundry
+###Install the Cloud Foundry CLI
 
 ## Known Issues
 
 No known issues.
 
-n/a
 ## How to obtain support
 
 [Create an issue](https://SAP-samples/cloud-for-utilities-foundation-samples/issues) in this repository if you find a bug or have questions about the content.
