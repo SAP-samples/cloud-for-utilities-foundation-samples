@@ -1,1 +1,4 @@
 /* You can add custom styles here. */
+html {
+background-color: var(--body-background);
+}
