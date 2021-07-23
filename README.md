@@ -20,6 +20,8 @@ In future we will provide further code examples in this repository.
 
 ## Extensibility How-to guide
 
+You can fin d an E2E extensibility guide for Cloud for Utilities Foundation here:
+
 [Cloud for Utilities Foundation Extensibility](https://musical-train-08559d0e.pages.github.io/Overview/)
 ## How to obtain support
 
