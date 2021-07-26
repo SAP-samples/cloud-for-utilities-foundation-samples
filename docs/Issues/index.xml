@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SAP Cloud For Utilities</title>
-    <link>https://musical-train-08559d0e.pages.github.io/Issues/</link>
+    <link>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Issues/</link>
     <description>Recent content on SAP Cloud For Utilities</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://musical-train-08559d0e.pages.github.io/Issues/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Issues/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://musical-train-08559d0e.pages.github.io/Issues/Feature_Gaps/</link>
+      <link>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Issues/Feature_Gaps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://musical-train-08559d0e.pages.github.io/Issues/Feature_Gaps/</guid>
+      <guid>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Issues/Feature_Gaps/</guid>
       <description>No extensibility for extending javascript files.
 Currently no code extensibility - only modelled constraints
 new fields default values range check check against a value list (enum) new entity as code list new entity including an association pointing to it integrity check on an association new unique constraint (secondary index) mandatory check
