@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SAP Cloud For Utilities</title>
-    <link>https://musical-train-08559d0e.pages.github.io/tags/</link>
+    <link>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/tags/</link>
     <description>Recent content in Tags on SAP Cloud For Utilities</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://musical-train-08559d0e.pages.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sap-samples.github.io/cloud-for-utilities-foundation-samples/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

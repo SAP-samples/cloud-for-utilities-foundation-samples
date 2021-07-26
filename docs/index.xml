@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SAP Cloud For Utilities</title>
-    <link>https://musical-train-08559d0e.pages.github.io/</link>
+    <link>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/</link>
     <description>Recent content on SAP Cloud For Utilities</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://musical-train-08559d0e.pages.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sap-samples.github.io/cloud-for-utilities-foundation-samples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://musical-train-08559d0e.pages.github.io/Extensibility/Extending/Extensibility/</link>
+      <link>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Extensibility/Extending/Extensibility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://musical-train-08559d0e.pages.github.io/Extensibility/Extending/Extensibility/</guid>
+      <guid>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Extensibility/Extending/Extensibility/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://musical-train-08559d0e.pages.github.io/Extensibility/Extending/Extension_Process_Overview/</link>
+      <link>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Extensibility/Extending/Extension_Process_Overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://musical-train-08559d0e.pages.github.io/Extensibility/Extending/Extension_Process_Overview/</guid>
+      <guid>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Extensibility/Extending/Extension_Process_Overview/</guid>
       <description>The following documents a step-by-step process to extend C4U CO while also providing in depth technical information that will allow you to extend C4U CO functionality for your use cases.
 **Please view the current limitations in the extension section of navigation.
 C4U CO is built upon the SAP Cloud Application Programming Model framework which allows C4U CO to focus on exposing its vast domain expertise by:
@@ -29,10 +29,10 @@ C4U CO is built upon the SAP Cloud Application Programming Model framework which
     
     <item>
       <title></title>
-      <link>https://musical-train-08559d0e.pages.github.io/Issues/Feature_Gaps/</link>
+      <link>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Issues/Feature_Gaps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://musical-train-08559d0e.pages.github.io/Issues/Feature_Gaps/</guid>
+      <guid>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Issues/Feature_Gaps/</guid>
       <description>No extensibility for extending javascript files.
 Currently no code extensibility - only modelled constraints
 new fields default values range check check against a value list (enum) new entity as code list new entity including an association pointing to it integrity check on an association new unique constraint (secondary index) mandatory check
