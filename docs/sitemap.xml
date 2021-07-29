@@ -32,6 +32,9 @@
     <loc>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Extensibility/Project-Setup/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Extensibility/Sample-Projects/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Extensibility/Service-Broker/</loc>
     <priority>0</priority>
   </url><url>
