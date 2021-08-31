@@ -22,7 +22,7 @@ In future we will provide further code examples in this repository.
 
 You can find an E2E extensibility guide for Cloud for Utilities Foundation here:
 
-[Cloud for Utilities Foundation Extensibility](https://musical-train-08559d0e.pages.github.io/Overview/)
+[Cloud for Utilities Foundation Extensibility](https://sap-samples.github.io/cloud-for-utilities-foundation-samples/Overview/)
 
 ## How to obtain support
 
