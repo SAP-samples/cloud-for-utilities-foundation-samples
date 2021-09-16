@@ -4,6 +4,8 @@
 
 Cloud for Utilities is a cloud offering from SAP providing a composable suite of several domain specific subscription based public cloud applications utilized to cover most important utilities specific order to cash processes.
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-for-utilities-foundation-samples)](https://api.reuse.software/info/github.com/SAP-samples/cloud-for-utilities-foundation-samples)
+
 You can find more information on these official SAP pages/videos:
 
 * [Utilities](https://www.sap.com/industries/energy-utilities.html) on SAP.com
