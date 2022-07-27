@@ -12,8 +12,6 @@ You can find more information on these official SAP pages/videos:
 
 * [Cloud for Utilities](https://www.youtube.com/watch?v=IhrxNraAfFE) on YouTube.com
 
-* [Cloud for Utilities 2006 features overview](https://www.youtube.com/watch?v=2gaFVvedA8M) on YouTube.com
-
 In this repository, Cloud for Utilities Foundation code examples are provided that enable you to extend SAP Business Technology Platform/SAP Cloud Application Programming Model (CAP)-based Cloud for Utilities Foundation services and applications utilizing SAP BTP services and capabilities.
 
 We provide How-to guides together with code snippets for several Cloud for Utilities example and extensibility aspects.
