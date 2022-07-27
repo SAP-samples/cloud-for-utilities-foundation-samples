@@ -1,4 +1,4 @@
-# Cloud for Utilities Examples and How-tos
+# Cloud for Utilities Foundation Examples and How-tos
 
 ## Description
 
